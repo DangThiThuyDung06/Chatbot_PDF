@@ -1,0 +1,12 @@
+python-dotenv
+ipykernel
+jupyter
+langchain
+langchain-community
+langchain-core
+langchain-openai
+openai
+sentence-transformers
+streamlit
+tiktoken
+qdrant-client
